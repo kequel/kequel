@@ -57,14 +57,7 @@ work code lives on [@karolinaglaza](https://github.com/karolinaglaza). this one 
 ![github actions](https://img.shields.io/badge/github_actions-000000?style=flat-square&logo=githubactions&logoColor=white)
 ![git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white)
 
-### // also built
-
-[music-app](https://github.com/kequel/music-app) &nbsp;·&nbsp; microservices music manager, spring cloud + angular + docker<br>
-[shop](https://github.com/kequel/shop) &nbsp;·&nbsp; prestashop on a docker swarm cluster, team lead & devops<br>
-[collaborative-whiteboard](https://github.com/kequel/collaborative-whiteboard) &nbsp;·&nbsp; real-time multi-user whiteboard in java<br>
-[snake](https://github.com/kequel/snake) &nbsp;·&nbsp; c++ / sdl2
-
-[everything else →](https://github.com/kequel?tab=repositories)
+### // [also built](https://github.com/kequel?tab=repositories)
 
 <div align="center">
 <sub>— eof —</sub>
